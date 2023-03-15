@@ -370,7 +370,7 @@ File removed :
 File return from the `files.nosql` file :
 ![nosql return after removal](./remove-nosql.JPG)
 
-**Author** : [Chris Kid](https://github.com/Kidchris)    **Date** : 2023-03-07
+**Author** : [Chris Kid](https://github.com/Kidchris/filer)    **Date** : 2023-03-15
 
 **Tags** : [TotalJs](https://docs.totaljs.com/welcome), [File Manager](https://docs.totaljs.com/latest), [File Upload](https://docs.totaljs.com/latest), [File Download](https://docs.totaljs.com/latest), [File Remove](https://docs.totaljs.com/latest), [File Rename](https://docs.totaljs.com/latest)
 
